@@ -1,0 +1,16 @@
+{
+  "name": "alfresco",
+  "version": "1.0.0",
+  "description": "--- title: \"Alfresco Governance Services Community Edition 25.3.0 をDockerで起動し、REST APIでレコード管理のライフサイクルを体験する\" emoji: \"📁\" type: \"tech\" topics: [\"alfresco\", \"edrms\", \"docker\", \"recordsmanagement\", \"api\"] published: false ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
