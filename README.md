@@ -20,9 +20,9 @@ published: false
 > 5. 保持期間（3年）の経過後、廃棄する
 > 6. 訴訟対応が発生した場合、ホールド（凍結）により廃棄を停止する
 
-以下の[前回の記事](https://zenn.dev/nakamura196/articles/a3b2e167e0dd03)をベースに、最新版での構築手順とAPIの使い方を紹介します。
+以下の[前回の記事](https://ldas.jp/ja/posts/starting-alfresco-with-docker-and-experiencing/)をベースに、最新版での構築手順とAPIの使い方を紹介します。
 
-https://zenn.dev/nakamura196/articles/a3b2e167e0dd03
+https://ldas.jp/ja/posts/starting-alfresco-with-docker-and-experiencing/
 
 ## 環境
 
